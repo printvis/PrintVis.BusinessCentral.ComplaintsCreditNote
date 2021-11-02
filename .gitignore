@@ -1,0 +1,16 @@
+.vscode/*
+Core/.vscode/*
+Reports/.vscode/*
+Reports/Layouts/*
+MaterialPlanning/.vscode/*
+StatusCode/.vscode/*
+Development/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+translations/PrintVis.g.xlf
+.vscode/launch.json
+.alpackages/
+*.app
+.alcache/*
+.history

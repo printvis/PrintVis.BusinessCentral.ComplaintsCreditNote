@@ -1,0 +1,25 @@
+{
+  "id": "18dfb73a-ef4a-49ee-b876-f521aad72175",
+  "name": "Send Credit Note for Complaint",
+  "publisher": "Printvis",
+  "version": "1.0.0.0",
+  "dependencies": [
+    {
+      "id": "5452f323-059e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "publisher": "NovaVision Software A/S",
+      "version": "18.2.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 59000,
+      "to": 60000
+    }
+  ],
+  "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true, "includeSourceInSymbolFile": true},
+  "runtime": "8.0"
+}
